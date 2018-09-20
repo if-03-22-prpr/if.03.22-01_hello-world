@@ -2,15 +2,12 @@
  *				HTBLA-Leonding / Class: <your class>
  * ---------------------------------------------------------
  * Exercise Number: 0
- * Title:			<title of the assignment>
- * Author:			<your name>
+ * Title:			Hello World
+ * Author:			Peter Bauer
  * ----------------------------------------------------------
  * Description:
- * <some brief description, what the program does: example:
- * Calculates a pyramid of numbers, i.e., it multiplies a big
- * integer by the number 2, its result by 3, etc. and then
- * returns to the original value by subsequently dividing,
- * again starting by 2, 3, etc.>
+ * This is the unavoidable hello world program as it is written
+ * since the year 1492 everytime somebody tries a new language.
  * ----------------------------------------------------------
  */
 #include <stdio.h>
