@@ -5,7 +5,7 @@ The goal of this assignment is to make you familiar with a first C program and t
 
 ## Materials
 
-- Atom or any other editor
+- Visual Studio Code
 - gcc
 - terminal.
 
